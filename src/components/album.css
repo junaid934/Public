@@ -1,0 +1,26 @@
+.show{
+    /* display: flex !important;
+    justify-content: center;
+    align-items: center; */
+    /* width: 80%; */
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+
+}
+.image{
+    height: 20rem;
+    width: 20rem;
+}
+.album1{
+    border: 5px solid green;
+    margin: 2rem;
+}
+.album2{
+    border: 5px solid blue;
+    margin: 2rem;
+}
+.album3{
+    border: 5px solid indigo;
+    margin: 2rem;
+}
